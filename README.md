@@ -1,0 +1,1 @@
+# FreightSimple-Email-Signature-Template
